@@ -1,0 +1,10 @@
+site_name: Ilyas Siouda
+site_url: https://ilyas.doesnotexist.club
+site_author: Ilyas Siouda
+
+theme:
+  name: terminal
+  palette: dark
+  
+docs_dir: src
+

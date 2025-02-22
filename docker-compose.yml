@@ -1,0 +1,9 @@
+services:
+  docsify:
+    image: qwizu/ilyas-siouda:dev
+    build: 
+      context: .
+      dockerfile: Dockerfile
+      target: dev
+    ports:
+      - "8000:8000"
